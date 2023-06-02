@@ -26,5 +26,3 @@ set(CPACK_DEBIAN_PACKAGE_DESCRIPTION "Solves quadratic equations")
 set(CPACK_RPM_PACKAGE_SUMMARY "Solves quadratic equations")
 
 include(CPack)
-
-
