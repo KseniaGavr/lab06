@@ -23,3 +23,7 @@ install(TARGETS solver # задаем инструкции по установк
 )
 
 include(CPackConfig.cmake)
+
+
+
+
