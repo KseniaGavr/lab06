@@ -46,7 +46,7 @@ include(CPackConfig.cmake)
 ```
 include(InstallRequiredSystemLibraries)
 
-set(CPACK_PACKAGE_CONTACT a0730c@gmail.com)
+set(CPACK_PACKAGE_CONTACT gavrikovaksen@gmail.com)
 set(CPACK_PACKAGE_VERSION ${PRINT_VERSION})
 set(CPACK_PACKAGE_NAME "solverapp")
 set(CPACK_PACKAGE_DESCRIPTION_FILE ${CMAKE_CURRENT_SOURCE_DIR}/DESCRIPTION)
